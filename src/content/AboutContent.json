@@ -1,15 +1,15 @@
 {
   "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "text": "OTR is engineered to be lightning-fast and responsive, ensuring a seamless and efficient user experience across all interactions and transactions.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why OTR?",
+      "content": "Choose OTR for a seamless fusion of dining, socializing, and event discovery, all within one dynamic and user-friendly platform.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Will OTR ?",
+      "content": "Transform your dining and social experiences by seamlessly integrating reservations, and personalized event discovery into a single, innovative platform.",
       "icon": "notes.svg"
     }
   ]
