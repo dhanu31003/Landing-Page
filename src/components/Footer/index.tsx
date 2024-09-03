@@ -98,10 +98,6 @@ const Footer = ({ t }: { t: TFunction }) => {
                 href="https://www.linkedin.com/in/dhanush-pujari-37173021a/"
                 src="linkedin.svg"
               />
-              <SocialLink
-                href="https://www.instagram.com/dhanush_pujari?igsh=cmRwMXVvZXJoMWFw"
-                src="instagram.svg"
-              />
             </FooterContainer>
           </Row>
         </Container>
